@@ -1,1 +1,1 @@
-# esercitazioni-mqtt
+# MQTT examples
