@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Add repository
 sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
 
